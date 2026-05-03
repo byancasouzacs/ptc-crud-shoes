@@ -26,6 +26,6 @@ model Calcado {
   cor String
   marca String
   tamanho Int
-  preco Int
+  preco Float
   quantidade_em_estoque Int
 }
